@@ -2,4 +2,5 @@
 Lab instruction in the class
 
 ### VDO
-The VDO will be uploaded in Youtube
+1. [Lab01](https://www.youtube.com/watch?v=K2YbOpF2CQQ)
+2. [Lab02](https://www.youtube.com/watch?v=6qm-5nBTgfw)
